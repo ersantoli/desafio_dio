@@ -1,0 +1,8 @@
+gitbash here
+git clone https://github.com/ersantoli/desafio_dio.git
+cd nome_da_pasta
+git status 
+git add . ou git add -A (faz um commit local)
+gi commit -m "Digite uma mensagem"	
+git push origin main
+
